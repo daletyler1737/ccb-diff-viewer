@@ -1,0 +1,10 @@
+{
+  "name": "ccb-diff-viewer",
+  "version": "1.0.0",
+  "description": "Rich diff viewer with side-by-side view and syntax highlighting",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "diff-viewer"],
+  "license": "MIT"
+}
